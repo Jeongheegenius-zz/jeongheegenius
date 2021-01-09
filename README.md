@@ -1,7 +1,7 @@
 ### 😃 좋아하는것
 
-- 프로그래밍
-- 사람들과 이야기 하는 것 
+- [프로그래밍](https://nodejs.org)
+- [사람들과 이야기 하는 것](https://discord.gg/M2URPWYvKM)
 - [♥️아이유 노래 듣는 것~](https://youtu.be/6-XEjSgyBzc)
 
 ### 🤬 싫어하는것
