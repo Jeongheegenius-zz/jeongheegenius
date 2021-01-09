@@ -13,11 +13,11 @@
 
 #### Github Status
 
-[![jeonghee0911's github stats](https://github-readme-stats.vercel.app/api?username=jeonghee0911)](https://github.com/jeonghee0911)
+[![jeonghee0911's github stats](https://github-readme-stats.vercel.app/api?username=jeongheegenius)](https://github.com/jeongheegenius)
 
 #### Top languages
 
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=jeonghee0911)](https://github.com/jeonghee0911)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=jeongheegenius)](https://github.com/jeongheegenius)
 
 #### Wakatime
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=jeonghee0911)](https://github.com/jeonghee0911)
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=jeongheegenius)](https://github.com/jeongheegenius)
