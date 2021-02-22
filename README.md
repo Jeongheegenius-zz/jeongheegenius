@@ -18,6 +18,3 @@
 #### Top languages
 
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=jeongheegenius)](https://github.com/jeongheegenius)
-
-#### Wakatime
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=jeongheegenius)](https://github.com/jeongheegenius)
