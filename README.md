@@ -20,5 +20,5 @@
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=jeongheegenius)](https://github.com/jeongheegenius)
 
 ### 저랑 이야기 하고싶다고요?
-- jeongheegenius@teamhope,xyz
-- 정희인데 _#8441 로 같이 이야기 해요!
+- jeonghee070911@gmail,com
+- 정희인데 _#0516 로 같이 이야기 해요!
