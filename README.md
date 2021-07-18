@@ -1,6 +1,6 @@
 ### 😃 좋아하는것
 
-- [프로그래밍](https://nodejs.org)
+- [프로그래밍](https://js.org)
 - 사람들과 이야기 하는 것 (소통 공간을 빠른 시일내로 만들게요!)
 - [♥️아이유 노래 듣는 것~](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q?feature=share)
 
