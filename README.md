@@ -22,4 +22,6 @@
 
 ### 저랑 이야기 하고싶다고요?
 - email: [jeonghee070911@naver.com](mail://jeonghee070911@naver.com)
-- 디스코드 [![Discord](https://discord.c99.nl/widget/theme-3/712196368630022195.png)](https://discord.com/users/673471748599054336)
+- 디스코드 
+
+[![Discord](https://discord.c99.nl/widget/theme-3/673471748599054336.png)](https://discord.com/users/673471748599054336)
