@@ -1,7 +1,7 @@
 ### 😃 좋아하는것
 
-- [프로그래밍](https://js.org)
-- 사람들과 이야기 하는 것 (소통 공간을 빠른 시일내로 만들게요!)
+- [프로그래밍](https://www.python.org/)
+- [사람들과 이야기 하는 것](https://discord.gg/2J8aW8Fhe2)
 - [♥️아이유 노래 듣는 것~](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q?feature=share)
 - [Gawr Gura가 부른 커버송 듣기](https://youtube.com/playlist?list=PLBaQipOTMedLA33YrvAp0iycjcgc56ccn)
 
