@@ -14,11 +14,11 @@
 
 #### Github Status
 
-[![jeonghee0911's github stats](https://github-readme-stats.vercel.app/api?username=jeongheegenius)](https://github.com/jeongheegenius)
+[![jeonghee0911's github stats](https://github-readme-stats.vercel.app/api?username=jeongheegenius&theme=solarized-dark&show_icons=true)](https://github.com/jeongheegenius)
 
 #### Top languages
 
-[![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=jeongheegenius)](https://github.com/jeongheegenius)
+[![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=jeongheegenius&theme=solarized-dark&show_icons=true)](https://github.com/jeongheegenius)
 
 ### 저랑 이야기 하고싶다고요?
 - email: [jeonghee070911@naver.com](mail://jeonghee070911@naver.com)
