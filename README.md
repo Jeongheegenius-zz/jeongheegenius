@@ -25,3 +25,6 @@
 - 디스코드 
 
 [![Discord](https://discord.c99.nl/widget/theme-3/673471748599054336.png)](https://discord.com/users/673471748599054336)
+
+### 후원하기!
+- ~~강요는 아닌데 해주실 사람 구함~~ [paypal](https://www.paypal.me/jeongheegenius)
