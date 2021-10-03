@@ -21,7 +21,7 @@
 [![Top langs](https://github-readme-stats.vercel.app/api/top-langs?username=jeongheegenius&theme=solarized-dark&show_icons=true)](https://github.com/jeongheegenius)
 
 ### 저랑 이야기 하고싶다고요?
-- email: [me@jeonghee.me](mail://me@jeonghee.me)
+- email: [me@jeonghee.me](mailto:me@jeonghee.me)
 - 디스코드 
 
 [![Discord](https://discord.c99.nl/widget/theme-3/673471748599054336.png)](https://discord.com/users/673471748599054336)
