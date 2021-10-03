@@ -1,4 +1,4 @@
-###📃 소개
+### 📃 소개
 👋 안녕하세요 평범한 중학생이자 개발자인 정희입니다!
 저는 주로 Discord Bot을 개발하는데 최근에 [DPY](https://github.com/Rapptz/discord.py)가 개발중단 되어서 봇 개발을 쉬고
 끄투서버를 준비하고 있습니다! 혹시 테스트를 해 보고 싶으신 분들은 [여기](https://discord.gg/z7KnVM66F2)로 와 주세요!
