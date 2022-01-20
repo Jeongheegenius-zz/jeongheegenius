@@ -32,4 +32,4 @@
 [![Discord](https://discord.c99.nl/widget/theme-2/673471748599054336.png)](https://discord.com/users/673471748599054336)
 
 ### 후원하기!
-- ~~강요는 아닌데 해주실 사람 구함~~ [paypal](https://www.paypal.me/jeongheegenius)
+- ~~강요는 아닌데 해주실 사람 구함~~ [paypal](https://www.paypal.me/jeongheegenius) (참고: 뭔 이유인지는 모르는데 저 계정 못들어감)
