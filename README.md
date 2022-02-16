@@ -6,9 +6,10 @@
 ### 😃 좋아하는것
 
 - [프로그래밍](https://www.python.org/)
-- [사람들과 이야기 하는 것](https://discord.gg/2J8aW8Fhe2)
+- [사람들과 이야기 하는 것](https://kr.dicoall.com/i/903261056330248204)
 - [♥️아이유 노래 듣는 것~](https://music.youtube.com/channel/UCTUR0sVEkD8T5MlSHqgaI_Q?feature=share)
 - [Gawr Gura가 부른 커버송 듣기](https://youtube.com/playlist?list=PLBaQipOTMedLA33YrvAp0iycjcgc56ccn)
+- [꽃감누나 노래 듣기](https://youtube.com/playlist?list=PLB_wxe8v4hX6H8OUxmU_u7pwTTco0AI3K)
 
 ### 🤬 싫어하는것
 
